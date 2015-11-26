@@ -1,5 +1,5 @@
 /**
- * 味觉风景公共js
+ *  味觉风景公共js
  * 同时其他模块也可以调用 
  */
 var CONSTANTPROVINCE = {
